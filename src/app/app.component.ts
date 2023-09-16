@@ -23,7 +23,7 @@ export class AppComponent {
   financialReportsList: FinancialReportRow[] = [];
   boldRowsCodes = ['499500', '799800', '799900', '979900', '999700'];
   notBlank = true;
-  showFrame = true;
+  showFrame = false;
   showAdjustmentColumn = true;
   //isBold = false;
 
